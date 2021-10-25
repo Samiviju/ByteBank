@@ -13,5 +13,6 @@ namespace _07_ByteBank
         public string Nome { get; set; }
         public string CPF { get; set; }
         public string Profissao { get; set; }
+	public int Idade {get; set;}
     }
 }
